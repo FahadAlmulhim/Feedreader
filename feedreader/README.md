@@ -4,15 +4,15 @@
 - Jasmine Library installed
 
 
-##Installation
+## Installation
 - Simply lunch index file.
-##Development Strategy
+## Development Strategy
 
 
     * Open up `index.html` and review the functionality of the application within your browser
     * What is all the code in `app.js` doing? Be sure to read all code comments
     * Check out `style.css`. How is styling applied to the application?
-###Tasks to finish the project
+### Tasks to finish the project
 2. Explore the Jasmine spec file in `feedreader.js`
     * This is the file in which you'll be writing your tests
     * Make sure to read all code comments here as well
